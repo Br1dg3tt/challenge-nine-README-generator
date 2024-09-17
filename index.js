@@ -65,5 +65,16 @@ const questions = [
         name: "test",
         message: "Include a walkthrough of the test.",
     },
-
 ];
+
+function writeToFile(fileName, data) {
+    return fs.writeFileSync(path.join(process.cwd(), fileName), data);
+}
+
+function init() {
+    inquirer.createPromptModule(questions).then((responses) => {
+        console.log("Create a README.md File.");
+        writeToFile("./dist/README.md", generateMarkdown({ ...responses }));
+    });
+}
+init();
