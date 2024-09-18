@@ -72,7 +72,7 @@ function writeToFile(fileName, data) {
 }
 
 function init() {
-    inquirer.createPromptModule(questions).then((responses) => {
+    inquirer.prompt(questions).then((responses) => {
         console.log("Create a README.md File.");
         writeToFile("./dist/README.md", generateMarkdown({ ...responses }));
     });
