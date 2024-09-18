@@ -1,12 +1,12 @@
-# 1 
-  by 1
-  ![Github license](https://img.shields.io/badge/license-ApacheLicense2.0-yellowgreen.svg)
+# Project Nine 
+  by Bridgett Rice
+  ![Github license](https://img.shields.io/badge/license-MITLicense-yellowgreen.svg)
   ## Description
-  1
+  To Made a README file
   ## Deployed Application URL
-  1
+  ok
   ## Screenshot
-  [alt-text]("1")
+  [alt-text]("ok")
   ## Table of Contents
   * [Description](#description)
   * [Requirements](#requirements)
@@ -21,29 +21,29 @@
 * [License](#license)
 
   ## Description
-  1
+  To Made a README file
   ## Requirements
   * [Questions](#questions)
   ## Features
   undefined
   ## Languages & Dependencies
-  1
+  None
   ## Usage
   ## How to Use This Application:
-  1
+  English
   ## Contact-Me
-  * Name - 1
-  * Email - 1
-  * Github - [1](https://github.com/1/)
+  * Name - Bridgett Rice
+  * Email - br1dg3tt@live.com
+  * Github - [Br1dg3tt](https://github.com/Br1dg3tt/)
   ## Contributors
-  1
+  Me
   ## Testing
   ```
-  1
+  This is the walkthrough
   ```
   ## License
           
-          Licensed under the ApacheLicense2.0 license.
+          Licensed under the MITLicense license.
   ## Questions
-  Please send your questions [here](mailto:1?subject=[GitHub]%20Dev%20Connect) or visit [github/1](https://github.com/1).
+  Please send your questions [here](mailto:br1dg3tt@live.com?subject=[GitHub]%20Dev%20Connect) or visit [github/Br1dg3tt](https://github.com/Br1dg3tt).
   
